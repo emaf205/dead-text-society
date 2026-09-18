@@ -6,7 +6,7 @@
 
 ---
 
-![Dead Text Society](assets/screenshots/dead-text-society-home.png)
+![Dead Text Society](screenshots/home.png)
 
 ## WHY
 
@@ -44,7 +44,7 @@ Output follows the user's language.
 
 ---
 
-![Dead Text Society — Prompt](assets/screenshots/dead-text-society-prompt.png)
+![Dead Text Society — Prompt](screenshots/prompt.png)
 
 ## INSIDE
 
